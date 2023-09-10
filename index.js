@@ -143,7 +143,7 @@ fontSizes.forEach(size => {
        root.style.setProperty('----sticky-top-right', '-25rem');
    } else if(size.classList.contains('font-size-5')){
        fontSize= '22px';
-       root.style.setProperty('----sticky-top-left', '-10rem');
+       root.style.setProperty('----sticky-top-left', '-12rem');
        root.style.setProperty('----sticky-top-right', '-33rem');
       }
 
